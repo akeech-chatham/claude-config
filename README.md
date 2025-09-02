@@ -10,9 +10,9 @@ prompt-engineering.md  # Prompt optimization techniques
 
 ## Prompt Engineering
 
-`prompt-engineering.md` is extracted from [Southbridge Research's exceptional analysis of Claude Code prompts](https://southbridge-research.notion.site/Prompt-Engineering-The-Art-of-Instructing-AI-2055fec70db181369002dcdea7d9e732). This document has been invaluable for understanding and applying advanced prompt engineering techniques.
+`prompt-engineering.md` is extracted from [Southbridge Research's - Prompt Engineering: The Art of Instructing AI](https://southbridge-research.notion.site/Prompt-Engineering-The-Art-of-Instructing-AI-2055fec70db181369002dcdea7d9e732). This resource has proven essential for grasping and implementing sophisticated prompt engineering methods.
 
-When optimizing prompts with these techniques:
+Add your original prompt to the context and then paste the prompt below to optimize it:
 ```
 Apply ALL prompt engineering patterns from `prompt-engineering.md` to this modification. For EACH change you make, you MUST specify EXACTLY which technique(s) you used by providing:
 
